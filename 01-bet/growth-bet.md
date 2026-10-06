@@ -4,7 +4,7 @@
 
 ## Growth hypothesis
 
-FinWise's biggest growth problem is FinWise's biggest growth problem is an inability to monetize activated users, evidenced by a trial-to-paid conversion rate stubbornly frozen at ~2% even when core feature engagement (like financial modeling) spikes., because because a B2B financial tool meant to command enterprise-level contract values cannot be justified in a "single-player" vacuum. The true buying trigger and long-term retention hook rely on multiplayer collaboration—specifically, the business owner actively working with their accountant, bookkeeper, or partner inside the shared workspace..
+FinWise's biggest growth problem is an inability to monetize activated users, evidenced by a trial-to-paid conversion rate stubbornly frozen at ~2% even when core feature engagement (like financial modeling) spikes, because a B2B financial tool meant to command enterprise-level contract values cannot be justified in a "single-player" vacuum. The true buying trigger and long-term retention hook rely on multiplayer collaboration—specifically, the business owner actively working with their accountant, bookkeeper, or partner inside the shared workspace.
 
 _Working notes: I think FinWise's biggest problem is a failure in early user activation and long-term value delivery, causing trial users to drop off before converting (2% conversion) and paid users to churn rapidly (60% annual churn). Evidence: Only 2% of trial users convert to paid, signaling friction in reaching core value during the reverse trial.
 
