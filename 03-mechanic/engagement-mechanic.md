@@ -15,7 +15,7 @@ _____
 
 ## Rationale
 
-This addresses value-related churn, not price: 2% trial conversion plus 60% post-conversion churn with short sessions and low financial-modeling usage signals users never turned the Aha into a habit. A user about to churn would stay because the streak protects a meaningful run of cash clarity before the paywall, and each investment improves the next trigger. Caveat: if converters disproportionately sent an invoice instead, the retained behavior is different and I would switch to a progress-bar toward first invoice paid.
+This addresses value-related churn, not price: 2% trial conversion plus 60% annual paid churn (40% retained at 1 yr) with short sessions and low financial-modeling usage signals users never turned the Aha into a habit. A user about to churn would stay because the streak protects a meaningful run of cash clarity before the paywall, and each investment improves the next trigger. Caveat: if converters disproportionately sent an invoice instead, the retained behavior is different and I would switch to a progress-bar toward first invoice paid.
 
 _____
 
