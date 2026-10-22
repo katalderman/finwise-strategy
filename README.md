@@ -1,6 +1,6 @@
 # FinWise, A Product-Led Growth Strategy
 
-> _(one-line growth thesis)_
+Solo cash clarity creates the value; the shared workspace captures the money — moving the paywall to collaboration breaks the 2% ceiling.
 
 Kat Alderman · Product Experimentation · October 2026
 
