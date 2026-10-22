@@ -21,7 +21,7 @@ Cut from onboarding entirely (each one can be deferred to a contextual prompt la
 
 Product tour or feature carousel.
 Company profile fields: address, EIN, logo.
-Inviting teammates or an accountant. Prompt this after the Aha, when they have something worth sharing.
+Inviting teammates or an accountant. Prompt this after the Aha, when they have something worth sharing. → Reintroduced in M5 as the post-model invite trigger (the experiment) and in M6 as the paywall boundary (paid = multiplayer workspace).
 Chart-of-accounts setup.
 Notification preferences, other than the single weekly email opt-in.
 Billing details. The reverse trial means you don’t ask for these until the downgrade moment.
@@ -44,7 +44,7 @@ Metrics to track:
 Median time-to-Aha. The target is under 5 minutes.
 Weekly email opt-in rate.
 Day-7 return rate.
-Trial-to-paid conversion, split by “connected bank” versus “sample data.”
+Trial-to-paid conversion, split by “connected bank” versus “sample data” (60% annual paid churn / 40% retained at 1 yr is the downstream retention context).
 
 _____
 
