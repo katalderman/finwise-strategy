@@ -4,7 +4,7 @@
 
 ## Aha moment
 
-Hypothesis: “I can see my real cash position and where my money went, without doing any bookkeeping.” In concrete terms, the user sees their own bank transactions auto-categorized into a cash flow view, with one insight they didn’t already know, such as “You spent $1,240 on software subscriptions last quarter” or “At this burn rate you have 7 weeks of runway.”
+Hypothesis: “I can see my real cash position and where my money went, without doing any bookkeeping.” In concrete terms, the user sees their own bank transactions auto-categorized into a cash flow view, with one insight they didn’t already know, such as “You spent $1,240 on software subscriptions last quarter” or “At this burn rate you have 7 weeks of runway.” This Screen-3 view is the entry Aha; the M4 North Star moment (the user’s first modeling output, built from this data) lands just after it, and that is where the M5 invite trigger fires.
 
 ---
 
@@ -35,7 +35,7 @@ Hypothesis: “I can see my real cash position and where my money went, without 
 - **Screen 3:** industry-based categorization rules, so transactions arrive already sorted (for example, a restaurant’s “Sysco” becomes Food Cost). The goal from Screen 1 decides which insight headlines the dashboard. Also badge premium features inline (“Forecast: Premium”) rather than adding an upsell screen.
 - **Fallback:** sample data matched to their industry, so even the demo feels relevant.
 
-[Onboarding prototype](https://lovable.dev/projects/4272b650-7a0d-47fe-b712-f835720c8971)
+[Onboarding prototype](https://pixel-perfect-onboarding-studio.lovable.app)
 
 ---
 
@@ -47,4 +47,4 @@ Metrics to track:
 - Median time-to-Aha. The target is under 5 minutes.
 - Weekly email opt-in rate.
 - Day-7 return rate.
-- Trial-to-paid conversion, split by “connected bank” versus “sample data” (60% annual paid churn / 40% retained at 1 yr is the downstream retention context).
+- Trial-to-paid conversion, split by “connected bank” versus “sample data”. Descriptive cut only: the split is self-selected, per the M5 analysis-unit rule, so it is never the headline result. (60% annual paid churn / 40% retained at 1 yr is the downstream retention context.)
