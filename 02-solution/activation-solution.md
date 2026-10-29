@@ -32,7 +32,7 @@ Screen 2: a pre-filled bank search based on location, and the institutions small
 Screen 3: industry-based categorization rules, so transactions arrive already sorted (for example, a restaurant’s “Sysco” becomes Food Cost). The goal from Screen 1 decides which insight headlines the dashboard. Also badge premium features inline (“Forecast: Premium”) rather than adding an upsell screen.
 Fallback: sample data matched to their industry, so even the demo feels relevant.
 
-https://lovable.dev/projects/4272b650-7a0d-47fe-b712-f835720c8971?magic_link=mc_24f39036-a6ac-4f9f-bc6f-9da26be60f5f
+[Onboarding prototype](https://lovable.dev/projects/4272b650-7a0d-47fe-b712-f835720c8971)
 
 _____
 
@@ -47,5 +47,3 @@ Day-7 return rate.
 Trial-to-paid conversion, split by “connected bank” versus “sample data” (60% annual paid churn / 40% retained at 1 yr is the downstream retention context).
 
 _____
-
-
