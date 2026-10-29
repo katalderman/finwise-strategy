@@ -1,10 +1,10 @@
-# FinWise, A Product-Led Growth Strategy
+# FinWise: A Product-Led Growth Strategy
 
-Solo cash clarity creates the value; the shared workspace captures the money — moving the paywall to collaboration breaks the 2% ceiling.
+Solo cash clarity creates the value; the shared workspace captures the money. Moving the paywall to collaboration breaks the 2% ceiling.
 
 Kat Alderman · Product Experimentation · October 2026
 
-This repo is my final project for the **Product Experimentation Certification** — a growth strategy for FinWise. One folder per module; this README is **The Story** that ties them together, and the source for the pitch you generate with the **Final Project Deliverables Prompt Generator**.
+This repo is my final project for the **Product Experimentation Certification**: a growth strategy for FinWise. One folder per module; this README is **The Story** that ties them together, and the source for the pitch you generate with the **Final Project Deliverables Prompt Generator**.
 
 **How to use this template:** click **Use this template → Create a new repository**, name it `finwise-strategy`, and commit each module's deliverable to its folder during the labs.
 
@@ -25,11 +25,13 @@ This repo is my final project for the **Product Experimentation Certification** 
 
 ## The Story
 
-**Growth thesis:** Solo cash clarity creates the value; the shared workspace captures the money — moving the paywall to collaboration breaks the 2% ceiling.
+**Growth thesis:** Solo cash clarity creates the value; the shared workspace captures the money. Moving the paywall to collaboration breaks the 2% ceiling.
 
 - **One friction.** Single-player modeling spikes (to ~58%) never moved conversion (flat ~2% for 13 months); the invite trigger was cut from onboarding for speed, so trials ended with one person holding an insight nobody else saw.
-- **One Aha.** The M4 ceiling/cliff read: import caps at ~45%, sessions collapse 14→5 min, yet conversion never budges — proving solo engagement doesn't monetize and the buying trigger is owner + accountant in a shared workspace.
+- **One Aha.** The M4 ceiling/cliff read: import caps at ~45%, sessions collapse 14→5 min, yet conversion never budges, proving solo engagement doesn't monetize and the buying trigger is owner + accountant in a shared workspace.
 - **Takeaways.** Price the collaboration, not the dashboard (M6 packaging-to-value paywall at share/invite); run the A/B invite test with a 6-week read and import guardrails (M5); treat every pricing change as a one-way door read over billing cycles 2–3.
+
+---
 
 ## Repo structure
 
@@ -46,4 +48,4 @@ finwise-strategy/
 
 ---
 
-_Certification submission — Product Experimentation Certification._
+_Certification submission · Product Experimentation Certification._
