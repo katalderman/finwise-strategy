@@ -23,5 +23,3 @@ _____
 **Loop type:** Collaboration.** Because FinWise is a B2B financial management tool, building features that encourage users to invite their bookkeeper, accountant, or business partner directly into the workspace naturally pulls in high-intent users. Since 98% of solo trial users are failing to see enough value to pay, a collaboration loop injects multiplayer utility into the product, which is highly effective at pushing B2B users over the monetization finish line.
 
 ![Growth loop diagram](01-bet-growth-loop.png)
-
-> Note: re-upload `01-bet-growth-loop.png` (export of the "Screenshot 2026-10-06 145520.png" already in `01-bet/`) if the image does not render — the prior inline base64 was corrupted in export.
