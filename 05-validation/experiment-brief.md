@@ -16,7 +16,7 @@ If we inject an Invite Your Accountant/Advisor trigger immediately after a trial
 
 **Primary metric (6-week read):** Invite acceptance rate: % of variant-arm activated trials where an invited collaborator joins the shared workspace. Target: 30%+ of activated trials send an invite, 15%+ end up with an accepted collaborator. This is the behavior the 6-week window can actually power, and it is the M4 leading indicator for conversion.
 
-**Confirmatory metric (long read):** Trial-to-paid conversion rate, target: sustained absolute lift from ~2% toward 3%+ (at least +1pp). Power math: detecting 2% to 3% at 80% power and alpha 0.05 needs roughly 3,800 activated trials per arm (~7,650 total). At ~300-600 trials/mo, 6 weeks yields only ~450-900 trials, an MDE of roughly +3pp, so a 6-week conversion read would be noise. Conversion is therefore read on the accumulated split at the pre-registered per-arm sample size, aligned with the M6 billing-cycle 2-3 read.
+**Confirmatory metric (long read):** Trial-to-paid conversion rate, target: sustained absolute lift from ~2% toward 3%+ (at least +1pp). Power math: detecting 2% to 3% at 80% power and alpha 0.05 needs roughly 3,800 activated trials per arm (~7,650 total). At ~300-600 trials/mo, 6 weeks yields only ~450-900 trials, an MDE of roughly +3pp, so a 6-week conversion read would be noise. Conversion is therefore read twice: a directional cohort read over billing cycles 2-3 (the M6 read, not powered), and the powered confirmatory read when the accumulated split reaches the pre-registered per-arm sample size, which at ~45% activation of 300-600 trials/mo is a multi-year horizon unless trial volume grows.
 
 **Analysis unit:** Intent-to-treat, variant vs control across all activated trials. Comparing inviter workspaces to non-inviter workspaces is self-selected (owners who invite are higher intent) and is reported only as a descriptive secondary cut, never as the headline result.
 
@@ -35,7 +35,7 @@ If we inject an Invite Your Accountant/Advisor trigger immediately after a trial
 ## Guardrail + read date
 
 - **Guardrail:** Weekly return rate (the M3 streak behavior) must not drop more than 5pp in the variant and notification opt-out must not rise more than 5%; avg session duration must not collapse further. (Import % is monitored as a sanity check only: the trigger fires after the first model, downstream of import, so it should be unable to move.)
-- **Read date:** 6 weeks after launch for the invite-funnel read, no peeking before then; conversion confirmatory read at the pre-registered per-arm sample size, aligned with the M6 cycles 2-3 read
+- **Read date:** 6 weeks after launch for the invite-funnel read, no peeking before then; directional conversion read at M6 billing cycles 2-3 (not powered); powered confirmatory read when the accumulated split reaches the pre-registered per-arm sample size
 
 ---
 
