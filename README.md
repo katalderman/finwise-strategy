@@ -27,7 +27,7 @@ This repo is my final project for the **Product Experimentation Certification**:
 
 - **One friction.** Single-player modeling spikes (to ~58%) never moved conversion (flat ~2% for 13 months); the invite trigger was cut from onboarding for speed, so trials ended with one person holding an insight nobody else saw.
 - **One Aha.** The M4 ceiling/cliff read: import caps at ~45%, sessions collapse 14→5 min, yet conversion never budges, proving solo engagement doesn't monetize and the buying trigger is owner + accountant in a shared workspace.
-- **Takeaways.** Price the collaboration, not the dashboard (M6 packaging-to-value paywall at share/invite); run the A/B invite test with a 6-week read and import guardrails (M5); treat every pricing change as a one-way door read over billing cycles 2–3.
+- **Takeaways.** Price the collaboration, not the dashboard (M6 packaging-to-value paywall at share/invite); run the A/B invite test with a 6-week read and engagement guardrails: weekly return, opt-out, session duration (M5); treat every pricing change as a one-way door read over billing cycles 2–3.
 
 ---
 
