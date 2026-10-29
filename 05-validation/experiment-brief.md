@@ -14,20 +14,24 @@ _____
 
 If we inject an Invite Your Accountant/Advisor trigger immediately after a trial user completes their first financial model for FinWise trial users, we expect multiplayer trial workspaces to convert at a higher rate as measured by trial-to-paid conversion rate.
 
-**Primary metric:** Trial-to-paid conversion rate, target: Absolute lift from ~2% to 3%+ (at least +1pp) within 6 weeks of launch
+**Primary metric (6-week read):** Invite acceptance rate: % of variant-arm activated trials where an invited collaborator joins the shared workspace. Target: 30%+ of activated trials send an invite, 15%+ end up with an accepted collaborator. This is the behavior the 6-week window can actually power, and it is the M4 leading indicator for conversion.
+
+**Confirmatory metric (long read):** Trial-to-paid conversion rate, target: sustained absolute lift from ~2% toward 3%+ (at least +1pp). Power math: detecting 2% to 3% at 80% power and alpha 0.05 needs roughly 3,800 activated trials per arm (~7,650 total). At ~300-600 trials/mo, 6 weeks yields only ~450-900 trials, an MDE of roughly +3pp, so a 6-week conversion read would be noise. Conversion is therefore read on the accumulated split at the pre-registered per-arm sample size, aligned with the M6 billing-cycle 2-3 read.
+
+**Analysis unit:** Intent-to-treat, variant vs control across all activated trials. Comparing inviter workspaces to non-inviter workspaces is self-selected (owners who invite are higher intent) and is reported only as a descriptive secondary cut, never as the headline result.
 
 _Experiment: Accountant Invite After First Model Test, Lift trial-to-paid conversion toward the North Star (trials that import data and reach a first modeling output) by turning single-player activation into multiplayer collaboration._
 
 _Testing One single change: a post-model Invite Your Accountant/Advisor trigger offering one-click shared-workspace invite at the moment the first modeling output lands. on Trial users who completed data import and reached their first modeling output (activated trials). Current experience: Single-player flow: after the first financial model the user lands back on the standard dashboard. Inviting an accountant/bookkeeper is deferred (cut from onboarding in M2) with no trigger at the value moment.._
 
-_Predicted outcome: Multiplayer (invited-collaborator) workspaces convert above the 2% ceiling toward 3%+, clearing the success threshold, while import and session guardrails hold.. If successful: Roll the invite trigger to 100% of activated trials, then run a holdout to confirm the retention/revenue effect over months and test invite copy and timing as follow-ups.. If unsuccessful: Check whether invites were sent but not accepted (invite friction) vs accepted but still not converting (value hypothesis wrong); revisit the M1 collaboration bet before further onboarding tweaks.._
+_Predicted outcome: The variant arm sends and lands invites at target rates within 6 weeks, and on the long read converts above the 2% ceiling toward 3%+ while guardrails hold.. If successful: Roll the invite trigger to 100% of activated trials, then run a holdout to confirm the retention/revenue effect over months and test invite copy and timing as follow-ups.. If unsuccessful: Check whether invites were sent but not accepted (invite friction) vs accepted but still not converting (value hypothesis wrong); revisit the M1 collaboration bet before further onboarding tweaks.._
 
 _____
 
 ## Guardrail + read date
 
-- **Guardrail:** Get Started Import % must not drop more than 5pp and notification opt-out must not rise more than 5%; avg session duration must not collapse further
-- **Read date:** 6 weeks after launch, no peeking before then
+- **Guardrail:** Weekly return rate (the M3 streak behavior) must not drop more than 5pp in the variant and notification opt-out must not rise more than 5%; avg session duration must not collapse further. (Import % is monitored as a sanity check only: the trigger fires after the first model, downstream of import, so it should be unable to move.)
+- **Read date:** 6 weeks after launch for the invite-funnel read, no peeking before then; conversion confirmatory read at the pre-registered per-arm sample size, aligned with the M6 cycles 2-3 read
 
 _____
 
